@@ -2,7 +2,6 @@
 <glyph name="Ustraight" format="2">
   <advance width="583"/>
   <unicode hex="04AE"/>
-  <anchor x="437" y="682" name="aboveUC"/>
   <outline>
     <component base="Y"/>
   </outline>

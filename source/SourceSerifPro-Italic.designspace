@@ -4,12 +4,12 @@
         <axis default="368.0" maximum="1000.0" minimum="0.0" name="weight" tag="wght" />
     </axes>
     <sources>
-        <source filename="masters/SourceSerif-Italic_0.ufo" name="master_0" stylename="Extra Light Italic">
+        <source filename="masters/SourceSerifMaster-ExtraLightItalic.ufo" name="Source Serif Pro Extra Light Italic" stylename="Extra Light Italic">
             <location>
                 <dimension name="weight" xvalue="0" />
             </location>
         </source>
-        <source filename="masters/SourceSerif-Italic_1.ufo" name="master_1" stylename="Italic">
+        <source filename="masters/SourceSerifMaster-Italic.ufo" name="Source Serif Pro Italic" stylename="Italic">
             <lib copy="1" />
             <groups copy="1" />
             <info copy="1" />
@@ -17,7 +17,7 @@
                 <dimension name="weight" xvalue="368" />
             </location>
         </source>
-        <source filename="masters/SourceSerif-Italic_2.ufo" name="master_2" stylename="Black Italic">
+        <source filename="masters/SourceSerifMaster-BlackItalic.ufo" name="Source Serif Pro Black Italic" stylename="Black Italic">
             <location>
                 <dimension name="weight" xvalue="1000" />
             </location>

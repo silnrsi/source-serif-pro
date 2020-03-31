@@ -12,12 +12,12 @@
         </axis>
     </axes>
     <sources>
-        <source filename="masters/SourceSerif-Italic_0.ufo" name="master_0">
+        <source filename="masters/SourceSerifMaster-ExtraLightItalic.ufo" name="Source Serif Pro Extra Light Italic" stylename="Extra Light Italic">
             <location>
                 <dimension name="weight" xvalue="0" />
             </location>
         </source>
-        <source filename="masters/SourceSerif-Italic_1.ufo" name="master_1">
+        <source filename="masters/SourceSerifMaster-Italic.ufo" name="Source Serif Pro Italic" stylename="Italic">
             <lib copy="1" />
             <groups copy="1" />
             <info copy="1" />
@@ -25,7 +25,7 @@
                 <dimension name="weight" xvalue="368" />
             </location>
         </source>
-        <source filename="masters/SourceSerif-Italic_2.ufo" name="master_2">
+        <source filename="masters/SourceSerifMaster-BlackItalic.ufo" name="Source Serif Pro Black Italic" stylename="Black Italic">
             <location>
                 <dimension name="weight" xvalue="1000" />
             </location>

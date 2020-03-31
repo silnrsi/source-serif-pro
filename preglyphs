@@ -1,0 +1,4 @@
+#!/bin/sh
+
+psfufo2glyphs source/SourceSerifPro-Roman.designspace source/masters/SourceSerifProRoman.glyphs
+psfufo2glyphs source/SourceSerifPro-Italic.designspace source/masters/SourceSerifProItalic.glyphs

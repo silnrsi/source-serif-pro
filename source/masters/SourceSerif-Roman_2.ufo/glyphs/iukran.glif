@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iukran" format="2">
-	<unicode hex="0456"/>
-	<advance width="324"/>
-	<outline>
-		<component base="i"/>
-	</outline>
-	<anchor name="aboveLC" x="167" y="728"/>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0,0.5,1,1</string>
-		</dict>
-	</lib>
+  <advance width="324"/>
+  <unicode hex="0456"/>
+  <anchor x="167" y="728" name="aboveLC"/>
+  <outline>
+    <component base="i"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.5,1,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="questiondown" format="2">
-	<unicode hex="00BF"/>
-	<advance width="462"/>
-	<outline>
-		<component base="questiondown.cap" yOffset="-151"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0,0.5,1,1</string>
-		</dict>
-	</lib>
+  <advance width="462"/>
+  <unicode hex="00BF"/>
+  <outline>
+    <component base="questiondown.cap" yOffset="-151"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.5,1,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -12,18 +12,18 @@
         </axis>
     </axes>
     <sources>
-        <source filename="masters/SourceSerifMaster-ExtraLight.ufo" name="Source Serif Pro Master Extra Light" stylename="Extra Light">
+        <source familyname="Source Serif Master" filename="masters/SourceSerifMaster-ExtraLight.ufo" name="Source Serif Pro Master Extra Light" stylename="Extra Light">
             <location>
                 <dimension name="weight" xvalue="0" />
             </location>
         </source>
-        <source filename="masters/SourceSerifMaster-Regular.ufo" name="Source Serif Pro Master Regular" stylename="Regular">
+        <source familyname="Source Serif Master" filename="masters/SourceSerifMaster-Regular.ufo" name="Source Serif Pro Master Regular" stylename="Regular">
             <info copy="1" />
             <location>
                 <dimension name="weight" xvalue="368" />
             </location>
         </source>
-        <source filename="masters/SourceSerifMaster-Black.ufo" name="Source Serif Pro Master Black" stylename="Black">
+        <source familyname="Source Serif Master" filename="masters/SourceSerifMaster-Black.ufo" name="Source Serif Pro Master Black" stylename="Black">
             <location>
                 <dimension name="weight" xvalue="1000" />
             </location>

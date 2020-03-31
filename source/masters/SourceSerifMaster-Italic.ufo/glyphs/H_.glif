@@ -3,8 +3,8 @@
   <advance width="764"/>
   <unicode hex="0048"/>
   <note>
-		skew 10 scale 120
-	</note>
+skew 10 scale 120
+</note>
   <anchor x="464" y="691" name="aboveUC"/>
   <anchor x="350" y="-22" name="belowLC"/>
   <outline>

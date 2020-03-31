@@ -3,27 +3,31 @@
 <plist version="1.0">
 <dict>
   <key>ascender</key>
-  <integer>738</integer>
+  <integer>730</integer>
   <key>capHeight</key>
   <integer>677</integer>
   <key>copyright</key>
   <string>Copyright 2014 - 2017 Adobe Systems Incorporated (http://www.adobe.com/).</string>
   <key>descender</key>
-  <integer>-245</integer>
+  <integer>-240</integer>
   <key>familyName</key>
   <string>Source Serif Master</string>
   <key>italicAngle</key>
   <integer>-12</integer>
   <key>openTypeHeadCreated</key>
-  <string>2020/03/31 16:06:46</string>
+  <string>2020/03/31 16:50:20</string>
   <key>openTypeHheaAscender</key>
-  <integer>738</integer>
+  <integer>730</integer>
   <key>openTypeHheaDescender</key>
-  <integer>-245</integer>
+  <integer>-240</integer>
   <key>openTypeHheaLineGap</key>
   <integer>0</integer>
+  <key>openTypeNameDescription</key>
+  <string>Serif font for open use</string>
   <key>openTypeNameDesigner</key>
   <string>Frank Grießhammer</string>
+  <key>openTypeNameDesignerURL</key>
+  <string>http://adobe.com/</string>
   <key>openTypeNameLicense</key>
   <string>Copyright 2014 - 2017 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'.
 		
@@ -110,9 +114,9 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeOS2Type</key>
   <array/>
   <key>openTypeOS2TypoAscender</key>
-  <integer>738</integer>
+  <integer>730</integer>
   <key>openTypeOS2TypoDescender</key>
-  <integer>-245</integer>
+  <integer>-240</integer>
   <key>openTypeOS2TypoLineGap</key>
   <integer>0</integer>
   <key>openTypeOS2UnicodeRanges</key>
@@ -129,12 +133,14 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   </array>
   <key>openTypeOS2VendorID</key>
   <string>ADBO</string>
+  <key>openTypeOS2WeightClass</key>
+  <integer>0</integer>
   <key>openTypeOS2WidthClass</key>
   <integer>5</integer>
   <key>openTypeOS2WinAscent</key>
-  <integer>738</integer>
+  <integer>730</integer>
   <key>openTypeOS2WinDescent</key>
-  <integer>245</integer>
+  <integer>240</integer>
   <key>postscriptBlueFuzz</key>
   <integer>0</integer>
   <key>postscriptBlueScale</key>
@@ -202,7 +208,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>postscriptUnderlineThickness</key>
   <integer>50</integer>
   <key>styleMapFamilyName</key>
-  <string>Source Serif Master Extra Light</string>
+  <string>Source Serif Master</string>
   <key>styleMapStyleName</key>
   <string>italic</string>
   <key>styleName</key>

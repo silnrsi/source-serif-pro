@@ -15,15 +15,19 @@
   <key>italicAngle</key>
   <integer>-12</integer>
   <key>openTypeHeadCreated</key>
-  <string>2020/03/31 16:06:38</string>
+  <string>2020/03/31 16:50:20</string>
   <key>openTypeHheaAscender</key>
   <integer>730</integer>
   <key>openTypeHheaDescender</key>
   <integer>-240</integer>
   <key>openTypeHheaLineGap</key>
   <integer>0</integer>
+  <key>openTypeNameDescription</key>
+  <string>Serif font for open use</string>
   <key>openTypeNameDesigner</key>
   <string>Frank Grießhammer</string>
+  <key>openTypeNameDesignerURL</key>
+  <string>http://adobe.com/</string>
   <key>openTypeNameLicense</key>
   <string>Copyright 2014 - 2017 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'.
 		
@@ -130,7 +134,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeOS2VendorID</key>
   <string>ADBO</string>
   <key>openTypeOS2WeightClass</key>
-  <integer>400</integer>
+  <integer>368</integer>
   <key>openTypeOS2WidthClass</key>
   <integer>5</integer>
   <key>openTypeOS2WinAscent</key>

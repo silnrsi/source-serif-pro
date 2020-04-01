@@ -2258,10 +2258,6 @@
   <string>1312</string>
   <key>com.schriftgestaltung.customName</key>
   <string>Black Italic</string>
-  <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
-  <array>
-    <string>/Ustraight</string>
-  </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesLastChange</key>

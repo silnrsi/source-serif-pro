@@ -2,7 +2,6 @@
 <glyph name="quoteleft" format="2">
   <advance width="272"/>
   <unicode hex="2018"/>
-  <unicode hex="02BB"/>
   <outline>
     <contour>
       <point x="197" y="419" type="curve" smooth="yes"/>

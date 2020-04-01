@@ -2492,6 +2492,7 @@
   <array>
     <string>colon</string>
     <string>semicolon</string>
+    <string>colontriangularmod</string>
   </array>
   <key>public.kern1.comma</key>
   <array>
@@ -3566,6 +3567,7 @@
   <array>
     <string>colon</string>
     <string>semicolon</string>
+    <string>colontriangularmod</string>
   </array>
   <key>public.kern2.comma</key>
   <array>

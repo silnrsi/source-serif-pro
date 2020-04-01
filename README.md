@@ -1,3 +1,9 @@
+# Important notice regarding this repo
+
+**This fork of Source Serif Pro is intended only to be used as a potential source of Latin-script glyph designs for unrelated non-Latin fonts. It cannot be used to produce viable fonts, as many parts of the fonts and build tools have been renamed, removed, or changed.**
+
+The original README information for Source Serif Pro is retained below, however be aware that most of the information is no longer relevant for this fork.
+
 # Source Serif Pro
 
 [Source Serif Pro](http://adobe-fonts.github.io/source-serif-pro/)

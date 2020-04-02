@@ -3,6 +3,9 @@
   <advance width="672"/>
   <unicode hex="0051"/>
   <anchor x="411" y="682" name="aboveUC"/>
+  <anchor x="299" y="-22" name="belowLC"/>
+  <anchor x="581" y="669" name="hornLC"/>
+  <anchor x="413" y="0" name="ogonek"/>
   <outline>
     <contour>
       <point x="438" y="-222" type="curve" smooth="yes"/>
@@ -20,12 +23,39 @@
       <point x="209" y="-130"/>
       <point x="294" y="-222"/>
     </contour>
-    <component base="O"/>
+    <contour>
+      <point x="297" y="-20" type="curve" smooth="yes"/>
+      <point x="543" y="-20"/>
+      <point x="683" y="177"/>
+      <point x="683" y="399" type="curve" smooth="yes"/>
+      <point x="683" y="570"/>
+      <point x="578" y="672"/>
+      <point x="425" y="672" type="curve" smooth="yes"/>
+      <point x="178" y="672"/>
+      <point x="38" y="468"/>
+      <point x="38" y="257" type="curve" smooth="yes"/>
+      <point x="38" y="65"/>
+      <point x="151" y="-20"/>
+    </contour>
+    <contour>
+      <point x="307" y="40" type="curve" smooth="yes"/>
+      <point x="244" y="40"/>
+      <point x="218" y="95"/>
+      <point x="218" y="217" type="curve" smooth="yes"/>
+      <point x="218" y="430"/>
+      <point x="312" y="612"/>
+      <point x="416" y="612" type="curve" smooth="yes"/>
+      <point x="481" y="612"/>
+      <point x="502" y="558"/>
+      <point x="502" y="443" type="curve" smooth="yes"/>
+      <point x="502" y="230"/>
+      <point x="410" y="40"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0,0,1,0.502</string>
+      <string>0.18,0.16,0.78,1</string>
     </dict>
   </lib>
 </glyph>

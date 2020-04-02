@@ -9,12 +9,23 @@
       <point x="392" y="600" type="line"/>
       <point x="96" y="75" type="line"/>
     </contour>
-    <component base="equal"/>
+    <contour>
+      <point x="501" y="202" type="line"/>
+      <point x="501" y="258" type="line"/>
+      <point x="29" y="258" type="line"/>
+      <point x="29" y="202" type="line"/>
+    </contour>
+    <contour>
+      <point x="501" y="402" type="line"/>
+      <point x="501" y="458" type="line"/>
+      <point x="29" y="458" type="line"/>
+      <point x="29" y="402" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0,0,1,0.502</string>
+      <string>0.18,0.16,0.78,1</string>
     </dict>
   </lib>
 </glyph>

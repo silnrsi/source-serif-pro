@@ -3,12 +3,17 @@
   <advance width="310"/>
   <unicode hex="2010"/>
   <outline>
-    <component base="hyphen"/>
+    <contour>
+      <point x="40" y="235" type="line"/>
+      <point x="270" y="235" type="line"/>
+      <point x="270" y="261" type="line"/>
+      <point x="40" y="261" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.04,0.57,0.04,1</string>
+      <string>0.18,0.16,0.78,1</string>
     </dict>
   </lib>
 </glyph>

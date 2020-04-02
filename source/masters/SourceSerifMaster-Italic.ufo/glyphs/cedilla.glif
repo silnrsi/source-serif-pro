@@ -2,13 +2,38 @@
 <glyph name="cedilla" format="2">
   <advance width="400"/>
   <unicode hex="00B8"/>
+  <anchor x="148" y="0" name="_baseLC"/>
   <outline>
-    <component base="cedillacmb" xOffset="148"/>
+    <contour>
+      <point x="95" y="-87" type="line"/>
+      <point x="142" y="-99"/>
+      <point x="169" y="-115"/>
+      <point x="169" y="-152" type="curve" smooth="yes"/>
+      <point x="169" y="-182"/>
+      <point x="146" y="-199"/>
+      <point x="111" y="-199" type="curve" smooth="yes"/>
+      <point x="86" y="-199"/>
+      <point x="67" y="-193"/>
+      <point x="45" y="-183" type="curve"/>
+      <point x="34" y="-208" type="line"/>
+      <point x="55" y="-221"/>
+      <point x="89" y="-231"/>
+      <point x="123" y="-231" type="curve" smooth="yes"/>
+      <point x="187" y="-231"/>
+      <point x="226" y="-197"/>
+      <point x="226" y="-157" type="curve" smooth="yes"/>
+      <point x="226" y="-110"/>
+      <point x="192" y="-89"/>
+      <point x="124" y="-65" type="curve"/>
+      <point x="126" y="-86" type="line"/>
+      <point x="166" y="0" type="line"/>
+      <point x="138" y="0" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.04,0.57,0.04,1</string>
+      <string>0.18,0.16,0.78,1</string>
     </dict>
   </lib>
 </glyph>

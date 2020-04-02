@@ -2,13 +2,42 @@
 <glyph name="hungarumlaut" format="2">
   <advance width="400"/>
   <unicode hex="02DD"/>
+  <anchor x="223" y="506" name="_aboveLC"/>
+  <anchor x="275" y="752" name="aboveLC"/>
   <outline>
-    <component base="hungarumlautcmb" xOffset="115"/>
+    <contour>
+      <point x="139" y="574" type="line"/>
+      <point x="162" y="556" type="line"/>
+      <point x="276" y="663" type="line" smooth="yes"/>
+      <point x="300" y="685"/>
+      <point x="307" y="706"/>
+      <point x="307" y="721" type="curve" smooth="yes"/>
+      <point x="307" y="740"/>
+      <point x="292" y="752"/>
+      <point x="273" y="752" type="curve" smooth="yes"/>
+      <point x="258" y="752"/>
+      <point x="238" y="741"/>
+      <point x="220" y="710" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="277" y="574" type="line"/>
+      <point x="300" y="556" type="line"/>
+      <point x="414" y="663" type="line" smooth="yes"/>
+      <point x="438" y="685"/>
+      <point x="445" y="706"/>
+      <point x="445" y="721" type="curve" smooth="yes"/>
+      <point x="445" y="740"/>
+      <point x="430" y="752"/>
+      <point x="411" y="752" type="curve" smooth="yes"/>
+      <point x="396" y="752"/>
+      <point x="376" y="741"/>
+      <point x="358" y="710" type="curve" smooth="yes"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.04,0.57,0.04,1</string>
+      <string>0.18,0.16,0.78,1</string>
     </dict>
   </lib>
 </glyph>

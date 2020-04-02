@@ -2,13 +2,35 @@
 <glyph name="ogonek" format="2">
   <advance width="400"/>
   <unicode hex="02DB"/>
+  <anchor x="146" y="0" name="_ogonek"/>
   <outline>
-    <component base="ogonekcmb" xOffset="146"/>
+    <contour>
+      <point x="37" y="-162" type="curve" smooth="yes"/>
+      <point x="37" y="-210"/>
+      <point x="69" y="-240"/>
+      <point x="126" y="-240" type="curve" smooth="yes"/>
+      <point x="170" y="-240"/>
+      <point x="215" y="-212"/>
+      <point x="241" y="-183" type="curve"/>
+      <point x="229" y="-166" type="line"/>
+      <point x="206" y="-183"/>
+      <point x="174" y="-195"/>
+      <point x="149" y="-195" type="curve" smooth="yes"/>
+      <point x="120" y="-195"/>
+      <point x="99" y="-176"/>
+      <point x="99" y="-137" type="curve" smooth="yes"/>
+      <point x="99" y="-79"/>
+      <point x="141" y="-29"/>
+      <point x="185" y="13" type="curve"/>
+      <point x="152" y="13" type="line"/>
+      <point x="99" y="-38"/>
+      <point x="37" y="-96"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.04,0.57,0.04,1</string>
+      <string>0.18,0.16,0.78,1</string>
     </dict>
   </lib>
 </glyph>

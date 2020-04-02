@@ -2,13 +2,24 @@
 <glyph name="circumflex" format="2">
   <advance width="260"/>
   <unicode hex="02C6"/>
+  <anchor x="198" y="500" name="_aboveLC"/>
+  <anchor x="241" y="699" name="aboveLC"/>
   <outline>
-    <component base="circumflexcmb" xOffset="92"/>
+    <contour>
+      <point x="323" y="553" type="line"/>
+      <point x="335" y="562" type="line"/>
+      <point x="255" y="739" type="line"/>
+      <point x="241" y="739" type="line"/>
+      <point x="95" y="562" type="line"/>
+      <point x="105" y="553" type="line"/>
+      <point x="249" y="708" type="line"/>
+      <point x="235" y="708" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.04,0.57,0.04,1</string>
+      <string>0.18,0.16,0.78,1</string>
     </dict>
   </lib>
 </glyph>

@@ -3,14 +3,50 @@
   <advance width="870"/>
   <unicode hex="00BC"/>
   <outline>
-    <component base="fraction" xOffset="380"/>
-    <component base="one.sups" xOffset="-37" yOffset="-172"/>
-    <component base="four.sups" xOffset="441" yOffset="-437"/>
+    <contour>
+      <point x="237" y="-12" type="line"/>
+      <point x="744" y="653" type="line"/>
+      <point x="728" y="665" type="line"/>
+      <point x="220" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="292" y="265" type="line"/>
+      <point x="295" y="280" type="line"/>
+      <point x="200" y="286" type="line"/>
+      <point x="181" y="286" type="line"/>
+      <point x="86" y="280" type="line"/>
+      <point x="83" y="265" type="line"/>
+    </contour>
+    <contour>
+      <point x="198" y="265" type="line"/>
+      <point x="261" y="572" type="line"/>
+      <point x="281" y="660" type="line"/>
+      <point x="274" y="667" type="line"/>
+      <point x="160" y="637" type="line"/>
+      <point x="157" y="620" type="line"/>
+      <point x="259" y="638" type="line"/>
+      <point x="251" y="648" type="line"/>
+      <point x="173" y="265" type="line"/>
+    </contour>
+    <contour>
+      <point x="833" y="115" type="line"/>
+      <point x="837" y="138" type="line"/>
+      <point x="565" y="138" type="line"/>
+      <point x="565" y="128" type="line"/>
+      <point x="794" y="372" type="line"/>
+      <point x="784" y="372" type="line"/>
+      <point x="707" y="-10" type="line"/>
+      <point x="731" y="-10" type="line"/>
+      <point x="816" y="400" type="line"/>
+      <point x="798" y="400" type="line"/>
+      <point x="548" y="133" type="line"/>
+      <point x="544" y="115" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.04,0.57,0.04,1</string>
+      <string>0.18,0.16,0.78,1</string>
     </dict>
   </lib>
 </glyph>

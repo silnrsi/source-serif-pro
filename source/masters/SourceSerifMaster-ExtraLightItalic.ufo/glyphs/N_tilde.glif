@@ -2,14 +2,80 @@
 <glyph name="Ntilde" format="2">
   <advance width="726"/>
   <unicode hex="00D1"/>
+  <anchor x="493" y="855" name="aboveUC"/>
+  <anchor x="373" y="-12" name="belowLC"/>
   <outline>
-    <component base="N"/>
-    <component base="tildecmb.cap" xOffset="311"/>
+    <contour>
+      <point x="16" y="0" type="line"/>
+      <point x="249" y="0" type="line"/>
+      <point x="253" y="20" type="line"/>
+      <point x="132" y="27" type="line"/>
+      <point x="118" y="27" type="line"/>
+      <point x="20" y="20" type="line"/>
+    </contour>
+    <contour>
+      <point x="107" y="0" type="line"/>
+      <point x="131" y="0" type="line"/>
+      <point x="254" y="652" type="line"/>
+      <point x="235" y="677" type="line"/>
+    </contour>
+    <contour>
+      <point x="548" y="-10" type="line"/>
+      <point x="568" y="-10" type="line"/>
+      <point x="572" y="9" type="line"/>
+      <point x="251" y="677" type="line"/>
+      <point x="129" y="677" type="line"/>
+      <point x="125" y="657" type="line"/>
+      <point x="252" y="652" type="line"/>
+      <point x="223" y="663" type="line"/>
+    </contour>
+    <contour>
+      <point x="553" y="657" type="line"/>
+      <point x="674" y="650" type="line"/>
+      <point x="688" y="650" type="line"/>
+      <point x="781" y="657" type="line"/>
+      <point x="785" y="677" type="line"/>
+      <point x="557" y="677" type="line"/>
+    </contour>
+    <contour>
+      <point x="568" y="-10" type="line"/>
+      <point x="698" y="677" type="line"/>
+      <point x="674" y="677" type="line"/>
+      <point x="549" y="14" type="line"/>
+    </contour>
+    <contour>
+      <point x="309" y="753" type="curve"/>
+      <point x="324" y="748" type="line"/>
+      <point x="347" y="796"/>
+      <point x="373" y="822"/>
+      <point x="406" y="822" type="curve" smooth="yes"/>
+      <point x="435" y="822"/>
+      <point x="447" y="808"/>
+      <point x="469" y="783" type="curve" smooth="yes"/>
+      <point x="491" y="759"/>
+      <point x="508" y="741"/>
+      <point x="550" y="741" type="curve" smooth="yes"/>
+      <point x="597" y="741"/>
+      <point x="632" y="780"/>
+      <point x="651" y="832" type="curve"/>
+      <point x="636" y="837" type="line"/>
+      <point x="613" y="789"/>
+      <point x="587" y="764"/>
+      <point x="555" y="764" type="curve" smooth="yes"/>
+      <point x="525" y="764"/>
+      <point x="512" y="780"/>
+      <point x="491" y="802" type="curve" smooth="yes"/>
+      <point x="469" y="826"/>
+      <point x="450" y="845"/>
+      <point x="411" y="845" type="curve" smooth="yes"/>
+      <point x="363" y="845"/>
+      <point x="328" y="806"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.04,0.57,0.04,1</string>
+      <string>0.18,0.16,0.78,1</string>
     </dict>
   </lib>
 </glyph>

@@ -63,10 +63,4 @@
     </contour>
     <component base="o.sups" xOffset="583" yOffset="-226"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0,0,1,0.502</string>
-    </dict>
-  </lib>
 </glyph>

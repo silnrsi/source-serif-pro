@@ -31,12 +31,17 @@
       <point x="197" y="487"/>
       <point x="228" y="460"/>
     </contour>
-    <component base="minus"/>
+    <contour>
+      <point x="501" y="302" type="line"/>
+      <point x="501" y="358" type="line"/>
+      <point x="29" y="358" type="line"/>
+      <point x="29" y="302" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0,0,1,0.502</string>
+      <string>0.18,0.16,0.78,1</string>
     </dict>
   </lib>
 </glyph>

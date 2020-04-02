@@ -2,14 +2,62 @@
 <glyph name="Ograve" format="2">
   <advance width="672"/>
   <unicode hex="00D2"/>
+  <anchor x="476" y="881" name="aboveUC"/>
+  <anchor x="299" y="-22" name="belowLC"/>
+  <anchor x="581" y="669" name="hornLC"/>
+  <anchor x="413" y="0" name="ogonek"/>
   <outline>
-    <component base="O"/>
-    <component base="gravecmb.cap" xOffset="289"/>
+    <contour>
+      <point x="297" y="-20" type="curve" smooth="yes"/>
+      <point x="543" y="-20"/>
+      <point x="683" y="177"/>
+      <point x="683" y="399" type="curve" smooth="yes"/>
+      <point x="683" y="570"/>
+      <point x="578" y="672"/>
+      <point x="425" y="672" type="curve" smooth="yes"/>
+      <point x="178" y="672"/>
+      <point x="38" y="468"/>
+      <point x="38" y="257" type="curve" smooth="yes"/>
+      <point x="38" y="65"/>
+      <point x="151" y="-20"/>
+    </contour>
+    <contour>
+      <point x="307" y="40" type="curve" smooth="yes"/>
+      <point x="244" y="40"/>
+      <point x="218" y="95"/>
+      <point x="218" y="217" type="curve" smooth="yes"/>
+      <point x="218" y="430"/>
+      <point x="312" y="612"/>
+      <point x="416" y="612" type="curve" smooth="yes"/>
+      <point x="481" y="612"/>
+      <point x="502" y="558"/>
+      <point x="502" y="443" type="curve" smooth="yes"/>
+      <point x="502" y="230"/>
+      <point x="410" y="40"/>
+    </contour>
+    <contour>
+      <point x="496" y="729" type="line"/>
+      <point x="457" y="769"/>
+      <point x="417" y="808"/>
+      <point x="380" y="841" type="curve" smooth="yes"/>
+      <point x="346" y="871"/>
+      <point x="327" y="881"/>
+      <point x="301" y="881" type="curve" smooth="yes"/>
+      <point x="264" y="881"/>
+      <point x="240" y="851"/>
+      <point x="240" y="823" type="curve" smooth="yes"/>
+      <point x="240" y="804"/>
+      <point x="248" y="774"/>
+      <point x="301" y="752" type="curve" smooth="yes"/>
+      <point x="358" y="728"/>
+      <point x="416" y="710"/>
+      <point x="471" y="692" type="curve"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.04,0.57,0.04,1</string>
+      <string>0.18,0.16,0.78,1</string>
     </dict>
   </lib>
 </glyph>

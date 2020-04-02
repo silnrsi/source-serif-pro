@@ -5,10 +5,4 @@
     <component base="dieresiscmb.cap" xOffset="5"/>
     <component base="macroncmb.cap" xOffset="21" yOffset="164"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.04,0.57,0.04,1</string>
-    </dict>
-  </lib>
 </glyph>

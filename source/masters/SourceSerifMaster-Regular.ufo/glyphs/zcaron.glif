@@ -2,14 +2,44 @@
 <glyph name="zcaron" format="2">
   <advance width="455"/>
   <unicode hex="017E"/>
+  <anchor x="237" y="727" name="aboveLC"/>
+  <anchor x="241" y="-22" name="belowLC"/>
   <outline>
-    <component base="z"/>
-    <component base="caroncmb" xOffset="237"/>
+    <contour>
+      <point x="30" y="0" type="line"/>
+      <point x="420" y="0" type="line"/>
+      <point x="430" y="163" type="line"/>
+      <point x="380" y="163" type="line"/>
+      <point x="343" y="13" type="line"/>
+      <point x="380" y="42" type="line"/>
+      <point x="97" y="42" type="line"/>
+      <point x="109" y="18" type="line"/>
+      <point x="415" y="439" type="line"/>
+      <point x="415" y="474" type="line"/>
+      <point x="44" y="474" type="line"/>
+      <point x="36" y="325" type="line"/>
+      <point x="86" y="321" type="line"/>
+      <point x="120" y="461" type="line"/>
+      <point x="83" y="432" type="line"/>
+      <point x="348" y="432" type="line"/>
+      <point x="336" y="456" type="line"/>
+      <point x="30" y="35" type="line"/>
+    </contour>
+    <contour>
+      <point x="123" y="737" type="line"/>
+      <point x="99" y="718" type="line"/>
+      <point x="200" y="571" type="line"/>
+      <point x="274" y="571" type="line"/>
+      <point x="375" y="718" type="line"/>
+      <point x="351" y="737" type="line"/>
+      <point x="195" y="594" type="line"/>
+      <point x="279" y="594" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.04,0.57,0.04,1</string>
+      <string>0.18,0.16,0.78,1</string>
     </dict>
   </lib>
 </glyph>

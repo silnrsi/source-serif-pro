@@ -2,4 +2,10 @@
 <glyph name="uni2029" format="2">
   <unicode hex="2029"/>
   <outline/>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
 </glyph>

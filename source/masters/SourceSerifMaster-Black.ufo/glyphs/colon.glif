@@ -3,13 +3,39 @@
   <advance width="300"/>
   <unicode hex="003A"/>
   <outline>
-    <component base="period" yOffset="330"/>
-    <component base="period"/>
+    <contour>
+      <point x="150" y="314" type="curve" smooth="yes"/>
+      <point x="205" y="314"/>
+      <point x="248" y="357"/>
+      <point x="248" y="410" type="curve" smooth="yes"/>
+      <point x="248" y="464"/>
+      <point x="205" y="509"/>
+      <point x="150" y="509" type="curve" smooth="yes"/>
+      <point x="95" y="509"/>
+      <point x="52" y="464"/>
+      <point x="52" y="410" type="curve" smooth="yes"/>
+      <point x="52" y="357"/>
+      <point x="95" y="314"/>
+    </contour>
+    <contour>
+      <point x="150" y="-16" type="curve" smooth="yes"/>
+      <point x="205" y="-16"/>
+      <point x="248" y="27"/>
+      <point x="248" y="80" type="curve" smooth="yes"/>
+      <point x="248" y="134"/>
+      <point x="205" y="179"/>
+      <point x="150" y="179" type="curve" smooth="yes"/>
+      <point x="95" y="179"/>
+      <point x="52" y="134"/>
+      <point x="52" y="80" type="curve" smooth="yes"/>
+      <point x="52" y="27"/>
+      <point x="95" y="-16"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.04,0.57,0.04,1</string>
+      <string>0.18,0.16,0.78,1</string>
     </dict>
   </lib>
 </glyph>

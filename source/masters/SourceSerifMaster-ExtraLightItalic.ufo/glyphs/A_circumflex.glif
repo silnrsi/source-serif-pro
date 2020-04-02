@@ -2,14 +2,57 @@
 <glyph name="Acircumflex" format="2">
   <advance width="651"/>
   <unicode hex="00C2"/>
+  <anchor x="431" y="847" name="aboveUC"/>
+  <anchor x="274" y="-22" name="belowLC"/>
+  <anchor x="515" y="0" name="ogonek"/>
   <outline>
-    <component base="A"/>
-    <component base="circumflexcmb.cap" xOffset="250" yOffset="-5"/>
+    <contour>
+      <point x="-27" y="0" type="line"/>
+      <point x="171" y="0" type="line"/>
+      <point x="175" y="20" type="line"/>
+      <point x="79" y="26" type="line"/>
+      <point x="65" y="26" type="line"/>
+      <point x="-23" y="20" type="line"/>
+    </contour>
+    <contour>
+      <point x="46" y="0" type="line"/>
+      <point x="73" y="0" type="line"/>
+      <point x="409" y="660" type="line"/>
+      <point x="390" y="650" type="line"/>
+      <point x="475" y="0" type="line"/>
+      <point x="509" y="0" type="line"/>
+      <point x="416" y="677" type="line"/>
+      <point x="396" y="677" type="line"/>
+    </contour>
+    <contour>
+      <point x="181" y="247" type="line"/>
+      <point x="466" y="247" type="line"/>
+      <point x="461" y="267" type="line"/>
+      <point x="193" y="267" type="line"/>
+    </contour>
+    <contour>
+      <point x="356" y="0" type="line"/>
+      <point x="604" y="0" type="line"/>
+      <point x="608" y="20" type="line"/>
+      <point x="495" y="26" type="line"/>
+      <point x="481" y="26" type="line"/>
+      <point x="360" y="20" type="line"/>
+    </contour>
+    <contour>
+      <point x="431" y="837" type="line"/>
+      <point x="417" y="837" type="line"/>
+      <point x="277" y="725" type="line"/>
+      <point x="283" y="715" type="line"/>
+      <point x="430" y="806" type="line"/>
+      <point x="412" y="806" type="line"/>
+      <point x="541" y="715" type="line"/>
+      <point x="551" y="725" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.04,0.57,0.04,1</string>
+      <string>0.18,0.16,0.78,1</string>
     </dict>
   </lib>
 </glyph>

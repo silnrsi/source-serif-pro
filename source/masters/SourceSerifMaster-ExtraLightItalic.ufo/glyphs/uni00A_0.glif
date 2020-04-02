@@ -2,13 +2,11 @@
 <glyph name="uni00A0" format="2">
   <advance width="220"/>
   <unicode hex="00A0"/>
-  <outline>
-    <component base="space"/>
-  </outline>
+  <outline/>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.04,0.57,0.04,1</string>
+      <string>0.18,0.16,0.78,1</string>
     </dict>
   </lib>
 </glyph>

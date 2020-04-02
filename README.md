@@ -2,7 +2,21 @@
 
 **This fork of Source Serif Pro is intended only to be used as a potential source of Latin-script glyph designs for unrelated non-Latin fonts. It cannot be used to produce viable fonts, as many parts of the fonts and build tools have been renamed, removed, or changed.**
 
-The original README information for Source Serif Pro is retained below, however be aware that most of the information is no longer relevant for this fork.
+## Notes to those who may use this fork
+
+Please draw only from the `master`, not the `release` branch.
+
+The files in this fork are optimized for use as a source for Latin glyphs for non-Latin fonts:
+
+- All masters of all styles (regular, italic) have the same glyph inventory
+- There is a glyph_data.csv file that lists every glyph (look in source)
+- The fonts have been enhanced to include glyphs for all [Recommended characters for Non-Roman fonts](https://www.scriptsource.org/entry/gg5wm9hhd3). These have also been fully decomposed to avoid problems with importing only the glyphs needed for this minimal set.
+
+Also:
+
+- Glyphnames are preserved as they were in the original Source Serif Pro sources. You may or may not wish to use those names, although they are generally AGL-compliant. 
+
+**The original README information for Source Serif Pro is retained below, however be aware that most of the information is no longer relevant for this fork.**
 
 # Source Serif Pro
 

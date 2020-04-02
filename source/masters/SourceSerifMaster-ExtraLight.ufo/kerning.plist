@@ -764,8 +764,6 @@
     <integer>-50</integer>
     <key>public.kern2.two.lf</key>
     <integer>-60</integer>
-    <key>questiondown</key>
-    <integer>-70</integer>
     <key>thorn</key>
     <integer>-20</integer>
   </dict>
@@ -857,35 +855,6 @@
     <integer>-20</integer>
     <key>underscore</key>
     <integer>-70</integer>
-  </dict>
-  <key>exclamdown</key>
-  <dict>
-    <key>V</key>
-    <integer>-50</integer>
-    <key>public.kern2.LAT_J</key>
-    <integer>30</integer>
-    <key>public.kern2.LAT_T</key>
-    <integer>-20</integer>
-    <key>public.kern2.LAT_U</key>
-    <integer>-20</integer>
-    <key>public.kern2.LAT_W</key>
-    <integer>-50</integer>
-    <key>public.kern2.LAT_Y</key>
-    <integer>-50</integer>
-    <key>public.kern2.LAT_f</key>
-    <integer>-20</integer>
-    <key>public.kern2.LAT_j</key>
-    <integer>40</integer>
-    <key>public.kern2.LAT_u</key>
-    <integer>-10</integer>
-    <key>public.kern2.LAT_v</key>
-    <integer>-10</integer>
-    <key>public.kern2.LAT_y</key>
-    <integer>10</integer>
-    <key>public.kern2.seven.lf</key>
-    <integer>-40</integer>
-    <key>thorn</key>
-    <integer>-20</integer>
   </dict>
   <key>florin</key>
   <dict>
@@ -7148,8 +7117,6 @@
     <integer>-40</integer>
     <key>public.kern2.two.lf</key>
     <integer>-30</integer>
-    <key>questiondown</key>
-    <integer>-30</integer>
     <key>slash</key>
     <integer>-30</integer>
     <key>thorn</key>
@@ -7243,8 +7210,6 @@
     <integer>-50</integer>
     <key>public.kern2.zero.lf</key>
     <integer>10</integer>
-    <key>questiondown</key>
-    <integer>-60</integer>
     <key>slash</key>
     <integer>-30</integer>
     <key>thorn</key>
@@ -7627,8 +7592,6 @@
     <integer>-20</integer>
     <key>public.kern2.zero.lf</key>
     <integer>-10</integer>
-    <key>questiondown</key>
-    <integer>-20</integer>
     <key>x</key>
     <integer>-10</integer>
   </dict>
@@ -7668,8 +7631,6 @@
     <integer>-50</integer>
     <key>public.kern2.zero.lf</key>
     <integer>30</integer>
-    <key>questiondown</key>
-    <integer>-40</integer>
   </dict>
   <key>public.kern1.periodcentered</key>
   <dict>
@@ -7741,8 +7702,6 @@
     <integer>-60</integer>
     <key>public.kern2.two.lf</key>
     <integer>-70</integer>
-    <key>questiondown</key>
-    <integer>-100</integer>
     <key>slash</key>
     <integer>-30</integer>
     <key>thorn</key>
@@ -7837,8 +7796,6 @@
     <integer>-40</integer>
     <key>public.kern2.six.lf</key>
     <integer>-10</integer>
-    <key>questiondown</key>
-    <integer>-120</integer>
     <key>slash</key>
     <integer>-80</integer>
   </dict>
@@ -7854,8 +7811,6 @@
     <integer>-20</integer>
     <key>exclam</key>
     <integer>-20</integer>
-    <key>exclamdown</key>
-    <integer>-30</integer>
     <key>numbersign</key>
     <integer>-30</integer>
     <key>p</key>
@@ -7948,8 +7903,6 @@
     <integer>-50</integer>
     <key>question</key>
     <integer>-20</integer>
-    <key>questiondown</key>
-    <integer>-120</integer>
     <key>slash</key>
     <integer>-80</integer>
     <key>underscore</key>
@@ -7966,8 +7919,6 @@
     <key>at</key>
     <integer>-100</integer>
     <key>bullet</key>
-    <integer>-40</integer>
-    <key>exclamdown</key>
     <integer>-40</integer>
     <key>p</key>
     <integer>-50</integer>
@@ -8071,8 +8022,6 @@
     <integer>-30</integer>
     <key>question</key>
     <integer>-20</integer>
-    <key>questiondown</key>
-    <integer>-120</integer>
     <key>slash</key>
     <integer>-100</integer>
     <key>underscore</key>
@@ -8740,67 +8689,6 @@
     <key>slash</key>
     <integer>-40</integer>
   </dict>
-  <key>questiondown</key>
-  <dict>
-    <key>AE</key>
-    <integer>-30</integer>
-    <key>V</key>
-    <integer>-70</integer>
-    <key>X</key>
-    <integer>-30</integer>
-    <key>public.kern2.LAT_A</key>
-    <integer>-30</integer>
-    <key>public.kern2.LAT_E</key>
-    <integer>-20</integer>
-    <key>public.kern2.LAT_J</key>
-    <integer>20</integer>
-    <key>public.kern2.LAT_M</key>
-    <integer>-20</integer>
-    <key>public.kern2.LAT_O</key>
-    <integer>-10</integer>
-    <key>public.kern2.LAT_T</key>
-    <integer>-50</integer>
-    <key>public.kern2.LAT_U</key>
-    <integer>-50</integer>
-    <key>public.kern2.LAT_W</key>
-    <integer>-60</integer>
-    <key>public.kern2.LAT_Y</key>
-    <integer>-80</integer>
-    <key>public.kern2.LAT_a</key>
-    <integer>-20</integer>
-    <key>public.kern2.LAT_f</key>
-    <integer>-30</integer>
-    <key>public.kern2.LAT_g</key>
-    <integer>-10</integer>
-    <key>public.kern2.LAT_h</key>
-    <integer>-30</integer>
-    <key>public.kern2.LAT_j</key>
-    <integer>40</integer>
-    <key>public.kern2.LAT_m</key>
-    <integer>-10</integer>
-    <key>public.kern2.LAT_o</key>
-    <integer>-10</integer>
-    <key>public.kern2.LAT_u</key>
-    <integer>-20</integer>
-    <key>public.kern2.LAT_y</key>
-    <integer>20</integer>
-    <key>public.kern2.five.lf</key>
-    <integer>-20</integer>
-    <key>public.kern2.nine.lf</key>
-    <integer>-10</integer>
-    <key>public.kern2.one.lf</key>
-    <integer>-20</integer>
-    <key>public.kern2.seven.lf</key>
-    <integer>-60</integer>
-    <key>public.kern2.six.lf</key>
-    <integer>-20</integer>
-    <key>public.kern2.two.lf</key>
-    <integer>-30</integer>
-    <key>public.kern2.zero.lf</key>
-    <integer>-20</integer>
-    <key>thorn</key>
-    <integer>-20</integer>
-  </dict>
   <key>radical</key>
   <dict>
     <key>public.kern2.four.lf</key>
@@ -8897,8 +8785,6 @@
     <integer>-80</integer>
     <key>public.kern2.six.lf</key>
     <integer>-20</integer>
-    <key>questiondown</key>
-    <integer>-60</integer>
     <key>slash</key>
     <integer>-60</integer>
     <key>x</key>

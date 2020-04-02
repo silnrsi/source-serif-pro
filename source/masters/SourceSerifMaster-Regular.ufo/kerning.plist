@@ -91,8 +91,6 @@
     <integer>-10</integer>
     <key>at</key>
     <integer>-20</integer>
-    <key>at.cap</key>
-    <integer>-10</integer>
     <key>backslash</key>
     <integer>10</integer>
     <key>bullet</key>
@@ -211,8 +209,6 @@
     <integer>-10</integer>
     <key>X</key>
     <integer>-20</integer>
-    <key>at.cap</key>
-    <integer>10</integer>
     <key>backslash</key>
     <integer>10</integer>
     <key>public.kern2.LAT_A</key>
@@ -288,8 +284,6 @@
     <integer>-60</integer>
     <key>X</key>
     <integer>-60</integer>
-    <key>at.cap</key>
-    <integer>20</integer>
     <key>backslash</key>
     <integer>-20</integer>
     <key>public.kern2.LAT_A</key>
@@ -353,8 +347,6 @@
     <integer>-40</integer>
     <key>at</key>
     <integer>-50</integer>
-    <key>at.cap</key>
-    <integer>-40</integer>
     <key>atilde</key>
     <integer>-50</integer>
     <key>backslash</key>
@@ -458,8 +450,6 @@
   </dict>
   <key>X</key>
   <dict>
-    <key>at.cap</key>
-    <integer>-10</integer>
     <key>bullet</key>
     <integer>-40</integer>
     <key>p</key>
@@ -572,47 +562,6 @@
     <integer>-10</integer>
     <key>underscore</key>
     <integer>-80</integer>
-  </dict>
-  <key>at.cap</key>
-  <dict>
-    <key>AE</key>
-    <integer>-80</integer>
-    <key>V</key>
-    <integer>-10</integer>
-    <key>X</key>
-    <integer>-10</integer>
-    <key>public.kern2.CYR_Dje</key>
-    <integer>10</integer>
-    <key>public.kern2.CYR_En</key>
-    <integer>-10</integer>
-    <key>public.kern2.CYR_Ocyr</key>
-    <integer>10</integer>
-    <key>public.kern2.CYR_Ustraight</key>
-    <integer>-30</integer>
-    <key>public.kern2.CYR_Zhe</key>
-    <integer>-10</integer>
-    <key>public.kern2.GRK_Beta</key>
-    <integer>-10</integer>
-    <key>public.kern2.GRK_Theta</key>
-    <integer>10</integer>
-    <key>public.kern2.GRK_Upsilon</key>
-    <integer>-30</integer>
-    <key>public.kern2.LAT_E</key>
-    <integer>-10</integer>
-    <key>public.kern2.LAT_J</key>
-    <integer>-10</integer>
-    <key>public.kern2.LAT_O</key>
-    <integer>10</integer>
-    <key>public.kern2.LAT_T</key>
-    <integer>10</integer>
-    <key>public.kern2.LAT_U</key>
-    <integer>-10</integer>
-    <key>public.kern2.LAT_W</key>
-    <integer>-20</integer>
-    <key>public.kern2.LAT_Y</key>
-    <integer>-30</integer>
-    <key>public.kern2.LAT_Z</key>
-    <integer>10</integer>
   </dict>
   <key>backslash</key>
   <dict>
@@ -844,11 +793,6 @@
     <key>public.kern2.LAT_u</key>
     <integer>-10</integer>
     <key>public.kern2.LAT_v</key>
-    <integer>-10</integer>
-  </dict>
-  <key>exclamdown.cap</key>
-  <dict>
-    <key>public.kern2.LAT_Y</key>
     <integer>-10</integer>
   </dict>
   <key>florin</key>
@@ -1102,8 +1046,6 @@
   </dict>
   <key>public.kern1.CYR_Ef</key>
   <dict>
-    <key>at.cap</key>
-    <integer>20</integer>
     <key>backslash</key>
     <integer>-20</integer>
     <key>public.kern2.CYR_Acyr</key>
@@ -1400,8 +1342,6 @@
   </dict>
   <key>public.kern1.CYR_Ka</key>
   <dict>
-    <key>at.cap</key>
-    <integer>-20</integer>
     <key>bullet</key>
     <integer>-50</integer>
     <key>public.kern2.CYR_Acyr</key>
@@ -1461,8 +1401,6 @@
   <key>public.kern1.CYR_Ocyr</key>
   <dict>
     <key>at</key>
-    <integer>20</integer>
-    <key>at.cap</key>
     <integer>20</integer>
     <key>backslash</key>
     <integer>-10</integer>
@@ -1578,8 +1516,6 @@
     <integer>-40</integer>
     <key>at</key>
     <integer>-50</integer>
-    <key>at.cap</key>
-    <integer>-40</integer>
     <key>backslash</key>
     <integer>10</integer>
     <key>bullet</key>
@@ -1712,8 +1648,6 @@
     <integer>-40</integer>
     <key>at</key>
     <integer>-50</integer>
-    <key>at.cap</key>
-    <integer>-60</integer>
     <key>backslash</key>
     <integer>10</integer>
     <key>bullet</key>
@@ -2720,8 +2654,6 @@
   <dict>
     <key>at</key>
     <integer>20</integer>
-    <key>at.cap</key>
-    <integer>20</integer>
     <key>backslash</key>
     <integer>-10</integer>
     <key>public.kern2.GRK_Alpha</key>
@@ -2786,8 +2718,6 @@
     <integer>-40</integer>
     <key>at</key>
     <integer>-50</integer>
-    <key>at.cap</key>
-    <integer>-60</integer>
     <key>backslash</key>
     <integer>10</integer>
     <key>bullet</key>
@@ -3191,8 +3121,6 @@
     <integer>-40</integer>
     <key>at</key>
     <integer>20</integer>
-    <key>at.cap</key>
-    <integer>20</integer>
     <key>backslash</key>
     <integer>-20</integer>
     <key>p</key>
@@ -3322,8 +3250,6 @@
     <key>X</key>
     <integer>-20</integer>
     <key>at</key>
-    <integer>10</integer>
-    <key>at.cap</key>
     <integer>10</integer>
     <key>p</key>
     <integer>-10</integer>
@@ -3525,8 +3451,6 @@
   <dict>
     <key>V</key>
     <integer>-10</integer>
-    <key>at.cap</key>
-    <integer>-20</integer>
     <key>bullet</key>
     <integer>-50</integer>
     <key>p</key>
@@ -3701,8 +3625,6 @@
     <integer>-70</integer>
     <key>X</key>
     <integer>-10</integer>
-    <key>at.cap</key>
-    <integer>-10</integer>
     <key>icircumflex</key>
     <integer>0</integer>
     <key>p</key>
@@ -3794,8 +3716,6 @@
     <key>X</key>
     <integer>-30</integer>
     <key>at</key>
-    <integer>20</integer>
-    <key>at.cap</key>
     <integer>20</integer>
     <key>backslash</key>
     <integer>-10</integer>
@@ -4169,8 +4089,6 @@
     <integer>-10</integer>
     <key>ampersand</key>
     <integer>-10</integer>
-    <key>at.cap</key>
-    <integer>-20</integer>
     <key>bullet</key>
     <integer>-10</integer>
     <key>p</key>
@@ -4293,8 +4211,6 @@
     <integer>-30</integer>
     <key>at</key>
     <integer>-50</integer>
-    <key>at.cap</key>
-    <integer>-40</integer>
     <key>atilde</key>
     <integer>-50</integer>
     <key>backslash</key>
@@ -4415,8 +4331,6 @@
     <integer>-40</integer>
     <key>at</key>
     <integer>-50</integer>
-    <key>at.cap</key>
-    <integer>-60</integer>
     <key>atilde</key>
     <integer>-60</integer>
     <key>backslash</key>
@@ -4525,8 +4439,6 @@
   <dict>
     <key>V</key>
     <integer>-10</integer>
-    <key>at.cap</key>
-    <integer>10</integer>
     <key>bullet</key>
     <integer>-20</integer>
     <key>p</key>
@@ -7819,11 +7731,6 @@
     <key>public.kern2.LAT_z</key>
     <integer>-10</integer>
     <key>x</key>
-    <integer>-10</integer>
-  </dict>
-  <key>questiondown.cap</key>
-  <dict>
-    <key>public.kern2.LAT_U</key>
     <integer>-10</integer>
   </dict>
   <key>radical</key>

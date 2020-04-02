@@ -532,15 +532,6 @@
     <key>public.kern2.LAT_O</key>
     <integer>20</integer>
   </dict>
-  <key>at.cap</key>
-  <dict>
-    <key>public.kern2.CYR_Ocyr</key>
-    <integer>30</integer>
-    <key>public.kern2.GRK_Theta</key>
-    <integer>30</integer>
-    <key>public.kern2.LAT_O</key>
-    <integer>30</integer>
-  </dict>
   <key>backslash</key>
   <dict>
     <key>V</key>
@@ -1119,8 +1110,6 @@
   </dict>
   <key>public.kern1.CYR_Ka</key>
   <dict>
-    <key>at.cap</key>
-    <integer>-20</integer>
     <key>dagger</key>
     <integer>-20</integer>
     <key>public.kern2.CYR_Acyr</key>
@@ -1179,8 +1168,6 @@
   <key>public.kern1.CYR_Ocyr</key>
   <dict>
     <key>at</key>
-    <integer>20</integer>
-    <key>at.cap</key>
     <integer>20</integer>
     <key>public.kern2.CYR_Acyr</key>
     <integer>10</integer>
@@ -1968,8 +1955,6 @@
   <dict>
     <key>Delta</key>
     <integer>-30</integer>
-    <key>at.cap</key>
-    <integer>-10</integer>
     <key>public.kern2.GRK_Alpha</key>
     <integer>-10</integer>
     <key>public.kern2.GRK_Theta</key>
@@ -2110,8 +2095,6 @@
     <key>Delta</key>
     <integer>-10</integer>
     <key>at</key>
-    <integer>20</integer>
-    <key>at.cap</key>
     <integer>20</integer>
     <key>public.kern2.GRK_Alpha</key>
     <integer>10</integer>
@@ -2547,8 +2530,6 @@
     <integer>-30</integer>
     <key>at</key>
     <integer>20</integer>
-    <key>at.cap</key>
-    <integer>20</integer>
     <key>public.kern2.LAT_A</key>
     <integer>-20</integer>
     <key>public.kern2.LAT_E</key>
@@ -2642,8 +2623,6 @@
     <key>X</key>
     <integer>-10</integer>
     <key>at</key>
-    <integer>20</integer>
-    <key>at.cap</key>
     <integer>20</integer>
     <key>public.kern2.LAT_A</key>
     <integer>-10</integer>
@@ -2816,8 +2795,6 @@
     <integer>-40</integer>
     <key>V</key>
     <integer>-60</integer>
-    <key>at.cap</key>
-    <integer>-20</integer>
     <key>dagger</key>
     <integer>-20</integer>
     <key>p</key>
@@ -2930,8 +2907,6 @@
   <dict>
     <key>AE</key>
     <integer>-60</integer>
-    <key>at.cap</key>
-    <integer>-10</integer>
     <key>p</key>
     <integer>-10</integer>
     <key>public.kern2.LAT_A</key>
@@ -3002,8 +2977,6 @@
     <key>X</key>
     <integer>-10</integer>
     <key>at</key>
-    <integer>20</integer>
-    <key>at.cap</key>
     <integer>20</integer>
     <key>public.kern2.LAT_A</key>
     <integer>10</integer>

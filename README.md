@@ -10,7 +10,7 @@ The files in this fork are optimized for use as a source for Latin glyphs for no
 
 - All masters of all styles (regular, italic) have the same glyph inventory
 - There is a glyph_data.csv file that lists every glyph (look in source)
-- The fonts have been enhanced to include glyphs for all [Recommended characters for Non-Roman fonts](https://www.scriptsource.org/entry/gg5wm9hhd3). These have also been fully decomposed to avoid problems with importing only the glyphs needed for this minimal set.
+- The fonts have been enhanced to include glyphs for all [Recommended characters for Non-Roman fonts](https://www.scriptsource.org/entry/gg5wm9hhd3). These have also been marked dark blue and fully decomposed to avoid problems with importing only the glyphs needed for this minimal set.
 
 Also:
 

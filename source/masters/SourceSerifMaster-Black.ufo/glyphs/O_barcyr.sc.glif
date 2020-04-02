@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Obarcyr.sc" format="2">
+  <advance width="670"/>
+  <anchor x="335" y="560" name="aboveUC"/>
+  <outline>
+    <component base="Fita.sc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

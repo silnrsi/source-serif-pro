@@ -3,7 +3,20 @@
   <advance width="497"/>
   <unicode hex="0034"/>
   <outline>
-    <component base="four.lf" xOffset="-5"/>
+    <contour>
+      <point x="482" y="197" type="line"/>
+      <point x="482" y="257" type="line"/>
+      <point x="72" y="257" type="line"/>
+      <point x="73" y="242" type="line"/>
+      <point x="325" y="592" type="line"/>
+      <point x="297" y="592" type="line"/>
+      <point x="297" y="0" type="line"/>
+      <point x="377" y="0" type="line"/>
+      <point x="377" y="656" type="line"/>
+      <point x="322" y="656" type="line"/>
+      <point x="24" y="247" type="line"/>
+      <point x="24" y="197" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

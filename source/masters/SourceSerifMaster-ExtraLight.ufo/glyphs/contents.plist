@@ -1384,6 +1384,8 @@
   <string>uni02B_B_.glif</string>
   <key>uni02BC</key>
   <string>uni02B_C_.glif</string>
+  <key>uni034F</key>
+  <string>uni034F_.glif</string>
   <key>uni2000</key>
   <string>uni2000.glif</string>
   <key>uni2001</key>
@@ -1406,16 +1408,60 @@
   <string>uni200A_.glif</string>
   <key>uni200B</key>
   <string>uni200B_.glif</string>
+  <key>uni200C</key>
+  <string>uni200C_.glif</string>
+  <key>uni200D</key>
+  <string>uni200D_.glif</string>
   <key>uni2010</key>
   <string>uni2010.glif</string>
+  <key>uni2011</key>
+  <string>uni2011.glif</string>
+  <key>uni2027</key>
+  <string>uni2027.glif</string>
   <key>uni2028</key>
   <string>uni2028.glif</string>
   <key>uni2029</key>
   <string>uni2029.glif</string>
   <key>uni202F</key>
   <string>uni202F_.glif</string>
+  <key>uni2060</key>
+  <string>uni2060.glif</string>
   <key>uni25CC</key>
   <string>uni25C_C_.glif</string>
+  <key>uniFE00</key>
+  <string>uniF_E_00.glif</string>
+  <key>uniFE01</key>
+  <string>uniF_E_01.glif</string>
+  <key>uniFE02</key>
+  <string>uniF_E_02.glif</string>
+  <key>uniFE03</key>
+  <string>uniF_E_03.glif</string>
+  <key>uniFE04</key>
+  <string>uniF_E_04.glif</string>
+  <key>uniFE05</key>
+  <string>uniF_E_05.glif</string>
+  <key>uniFE06</key>
+  <string>uniF_E_06.glif</string>
+  <key>uniFE07</key>
+  <string>uniF_E_07.glif</string>
+  <key>uniFE08</key>
+  <string>uniF_E_08.glif</string>
+  <key>uniFE09</key>
+  <string>uniF_E_09.glif</string>
+  <key>uniFE0A</key>
+  <string>uniF_E_0A_.glif</string>
+  <key>uniFE0B</key>
+  <string>uniF_E_0B_.glif</string>
+  <key>uniFE0C</key>
+  <string>uniF_E_0C_.glif</string>
+  <key>uniFE0D</key>
+  <string>uniF_E_0D_.glif</string>
+  <key>uniFE0E</key>
+  <string>uniF_E_0E_.glif</string>
+  <key>uniFE0F</key>
+  <string>uniF_E_0F_.glif</string>
+  <key>uniFEFF</key>
+  <string>uniF_E_F_F_.glif</string>
   <key>uniFFFC</key>
   <string>uniF_F_F_C_.glif</string>
   <key>uniFFFD</key>

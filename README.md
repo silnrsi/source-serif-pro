@@ -4,7 +4,7 @@
 
 ## Notes to those who may use this fork
 
-Please draw only from the `master`, not the `release` branch.
+Please draw only from the `master`, not any other branches.
 
 The files in this fork are optimized for use as a source for Latin glyphs for non-Latin fonts:
 
